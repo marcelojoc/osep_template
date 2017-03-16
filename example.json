@@ -1,0 +1,69 @@
+{
+  "array": [
+    1,
+    2,
+    3
+  ],
+  "boolean": true,
+  "null": null,
+  "number": 123,
+  "object": {
+    "a": "b",
+    "c": "d",
+    "e": "f"
+  },
+  "string": "Hello World",
+  "familia": [
+    {
+      "id_orden": 0,
+      "nombre": "marcelo",
+      "edad": "marcelo",
+      "sexo": "marcelo",
+      "relacion": "marcelo",
+      "estudia": "marcelo",
+      "nivelE": "marcelo",
+      "Ocupacion": "sssssss",
+      "osep": "marcelo",
+      "afiliado": "sssssss",
+      "otraCobert": "marcelo",
+      "embarazo": "marcelo",
+      "cronica": "sssssss",
+      "discap": "marcelo",
+      "dependencia": "sssssss"
+    },
+    {
+      "id_orden": 1,
+      "nombre": "marcelo",
+      "edad": "marcelo",
+      "sexo": "marcelo",
+      "relacion": "marcelo",
+      "estudia": "marcelo",
+      "nivelE": "marcelo",
+      "Ocupacion": "sssssss",
+      "osep": "marcelo",
+      "afiliado": "sssssss",
+      "otraCobert": "marcelo",
+      "embarazo": "marcelo",
+      "cronica": "sssssss",
+      "discap": "marcelo",
+      "dependencia": "sssssss"
+    },
+    {
+      "id_orden": 1,
+      "nombre": "marcelo",
+      "edad": "marcelo",
+      "sexo": "marcelo",
+      "relacion": "marcelo",
+      "estudia": "marcelo",
+      "nivelE": "marcelo",
+      "Ocupacion": "sssssss",
+      "osep": "marcelo",
+      "afiliado": "sssssss",
+      "otraCobert": "marcelo",
+      "embarazo": "marcelo",
+      "cronica": "sssssss",
+      "discap": "marcelo",
+      "dependencia": "sssssss"
+    }
+  ]
+}
